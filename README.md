@@ -1,4 +1,4 @@
-<img src="C:\Users\ASUS\OneDrive\Desktop\iVee1234\img\Black and White PC Wallpaper 4K.jpeg">
+![github profile](img/Black%20and%20White%20PC%20Wallpaper%204K.jpeg)
 
 ## Hi there👋! Welcome to my Github Profile
 
