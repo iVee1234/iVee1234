@@ -1,4 +1,4 @@
-![github profile](img/header.jpeg)
+![github profile](img/header2.jpeg)
 
 ## Hi there👋! Welcome to my Github Profile
 
