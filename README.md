@@ -1,4 +1,4 @@
-![github profile](img/Black%20and%20White%20PC%20Wallpaper%204K.jpeg)
+![github profile](img/header.jpeg)
 
 ## Hi there👋! Welcome to my Github Profile
 
