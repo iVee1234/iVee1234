@@ -1,4 +1,8 @@
-## Hi there 👋
+<img src="C:\Users\ASUS\OneDrive\Desktop\iVee1234\img\Black and White PC Wallpaper 4K.jpeg">
+
+## Hi there👋! Welcome to my Github Profile
+
+⚡ Fun fact: I'am a bocil Roblox
 
 <!--
 **iVee1234/iVee1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'am a bocil Roblox
 -->
