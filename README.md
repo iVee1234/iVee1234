@@ -1,4 +1,4 @@
-<img src="iVee1234\img\header.jpeg">
+<img src="../img/header.jpeg">
 <!--![github profile](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5nenJ4ZThiczE1YTN0bmZyb2l5aTk0cHJ1czRkMXUxcDNvMGc5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif)-->
 
 <h1 align="center">Hi there, I'm iVe 👋</h1>
