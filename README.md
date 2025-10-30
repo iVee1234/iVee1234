@@ -1,4 +1,4 @@
-<img src="C:\Users\ASUS\OneDrive\Desktop\iVee1234\img\header.jpeg">
+<img src="iVee1234\img\header.jpeg">
 <!--![github profile](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5nenJ4ZThiczE1YTN0bmZyb2l5aTk0cHJ1czRkMXUxcDNvMGc5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif)-->
 
 <h1 align="center">Hi there, I'm iVe 👋</h1>
@@ -39,7 +39,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-<img src="C:\Users\ASUS\OneDrive\Desktop\iVee1234\img\connectpls.png" style="width: 100px">
+<img src="iVee1234\img\connectpls.png" style="width: 100px">
   <a href="https://www.linkedin.com/in/aisyah-wilavy-zahra-73a104327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 80px"></a>
   <a href="https://www.instagram.com/lvy.ra_?igsh=a21oeHI5eTU4azJ2&utm_source=qr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="width: 80px"></a>
 </p>
