@@ -39,7 +39,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-<img src="iVee1234\img\connectpls.png" style="width: 100px">
+<img src="img/connectpls.png" style="width: 100px">
   <a href="https://www.linkedin.com/in/aisyah-wilavy-zahra-73a104327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 80px"></a>
   <a href="https://www.instagram.com/lvy.ra_?igsh=a21oeHI5eTU4azJ2&utm_source=qr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="width: 80px"></a>
 </p>
