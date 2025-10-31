@@ -11,7 +11,7 @@
 ### 🧠 About Me
 - 🎓 I’m currently studying **Information Systems** at Universitas Negeri Semarang  
 - 💡 Interested in **design, web development, and AI-based education**  
-- 🎮 Currently exploring game development
+- 🎮 Currently exploring **game development**
 - ✍️ I enjoy creating **UI/UX designs** and **creative digital projects**
 
 ---
