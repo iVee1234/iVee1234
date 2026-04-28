@@ -30,11 +30,11 @@
 
 ---
 
-### 🖼️ Top Languages
+<!--### 🖼️ Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iVee1234">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk1eXl3cGdqd204Y2Jma245Z3I5ZGd0dXY2cjY4dm9mZ3d0YXFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" style="width: 110px">
-</p>
+</p>-->
 
 
 ---
